@@ -60,7 +60,16 @@ Real-time computer vision system using YOLO and OpenCV for crowd monitoring.
 ### 🔹 Credit Card Fraud Detection
 Machine learning model to detect fraudulent transactions using supervised learning.
 
+### 🔹 Apple Disease Detection AI Dashboard
+An end-to-end Machine Learning web application that detects apple leaf and fruit diseases using a deep learning CNN model and provides an interactive AI-powered dashboard with disease information, analytics, and prediction history UI.
 
+### 🔹 Mini Project
+collection of beginner-to-intermediate Python projects built to strengthen programming, problem-solving, and web development skills using Flask.
+* 🎮 Tic Tac Toe AI
+* 💡 Quote Generator
+* 🔐 Password Generator
+* 🎯 Number Guessing Game
+* 🧮 Basic Calculator
 
 ## 📫 Contact Me
 
