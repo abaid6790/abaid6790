@@ -1,25 +1,18 @@
 # 👋 Hi, I'm Abaid-ur-Rehman
 
-🚀 Machine Learning Engineer | Python Developer  
-🤖 AI | Computer Vision | Deep Learning Enthusiast  
-
+Machine Learning Engineer | Python Developer | Artificial Intelligence | Computer Vision | Deep Learning Enthusiast  
 ---
-
 ## 🧠 About Me
 I am a passionate Machine Learning Engineer focused on building intelligent systems using Python, AI, and Computer Vision.  
 I enjoy solving real-world problems using data, algorithms, and model training.
-
 ---
-
 ## 🛠 Tech Stack
-
 ### 💻 Programming
 - Python
 - HTML
 - CSS
 - JavaScript
 - SQL
-
 ### 🤖 Machine Learning & AI
 - Machine Learning (Supervised & Unsupervised)
 - Deep Learning
@@ -34,12 +27,16 @@ I enjoy solving real-world problems using data, algorithms, and model training.
 - NumPy
 - OpenCV
 - Flask
+- Matplotlib
+- Seaborn
 
 ### 🧰 Tools
 - Git & GitHub
 - Google Colab
 - VS Code
 - Kaggle
+- Supabase
+- Jupter Notebook
 
 ---
 
