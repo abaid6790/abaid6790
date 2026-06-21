@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Abaid-ur-Rehman
 
-Machine Learning Engineer | Python Developer | Artificial Intelligence | Computer Vision | Deep Learning Enthusiast  
+Machine Learning Engineer | Python Developer
+Artificial Intelligence | Computer Vision | Deep Learning Enthusiast  
 ---
+
 ## 🧠 About Me
+
 I am a passionate Machine Learning Engineer focused on building intelligent systems using Python, AI, and Computer Vision.  
 I enjoy solving real-world problems using data, algorithms, and model training.
 ---
