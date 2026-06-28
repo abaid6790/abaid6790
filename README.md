@@ -1,4 +1,4 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/87da7098-f9d1-4dbc-897f-a540787c4036" /># 👋 Hi, I'm Abaid-ur-Rehman
+👋 Hi, I'm Abaid-ur-Rehman
 
 Machine Learning Engineer | Python Developer
 Artificial Intelligence | Computer Vision | Deep Learning Enthusiast  
