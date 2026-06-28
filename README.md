@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abaid-ur-Rehman
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/87da7098-f9d1-4dbc-897f-a540787c4036" /># 👋 Hi, I'm Abaid-ur-Rehman
 
 Machine Learning Engineer | Python Developer
 Artificial Intelligence | Computer Vision | Deep Learning Enthusiast  
@@ -73,9 +73,12 @@ collection of beginner-to-intermediate Python projects built to strengthen progr
 
 ## 📫 Contact Me
 
-- 📧 Email: abaidurrehman6790@gmail.com 
-- 💼 LinkedIn:https://www.linkedin.com/in/malik-abaid-ur-rehman-996b9437b  
-- 🐙 GitHub: https://github.com/abaid6790 
+- Email : abaidurrehman6790@gmail.com 
+- LinkedIn : https://www.linkedin.com/in/malik-abaid-ur-rehman-996b9437b  
+- GitHub : https://github.com/abaid6790
+- Twitter : https://x.com/AbaidurRehman67
+- Instagram : https://www.instagram.com/abaid_5511
+  
 
 ---
 
