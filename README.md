@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/abaid6790?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-30+-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repositories-20+-blue?style=for-the-badge"/>
 </a>
 
 <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
@@ -43,6 +43,8 @@
 * Machine Learning
 * Deep Learning
 * Computer Vision
+* Natural Language processing (NLP)
+* Speech Processing 
 * Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
 * Full-Stack AI Development
@@ -310,7 +312,7 @@
 
 ---
 
-## 📄 AI PDF Assistant (Local RAG)
+## 📄 StudyMind AI (Local RAG)
 
 <img align="right" width="120" src="https://img.shields.io/badge/RAG-LLM-success?style=for-the-badge">
 
@@ -327,7 +329,7 @@
 
 **Tech Stack**
 
-`Python` `Flask` `FAISS` `Sentence Transformers` `Ollama`
+`Python` `Flask` `FAISS` `Sentence Transformers` `Gemini`
 
 ---
 
