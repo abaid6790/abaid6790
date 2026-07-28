@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm **Abaid-ur-Rehman**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Python+Developer;Artificial+Intelligence+Enthusiast;Web+developer;Computer+Vision+Developer;LLM+%7C+RAG+Developer;Building+AI+Applications+That+Solve+Real+Problems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Python+Developer;Shopify+Developer;Artificial+Intelligence+Enthusiast;Web+developer;Computer+Vision+Developer;LLM+%7C+RAG+Developer;Building+AI+Applications+That+Solve+Real+Problems"/>
 
 ### 🚀 Transforming Ideas into Intelligent AI Solutions
 
@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/abaid6790?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-20+-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repositories-26-blue?style=for-the-badge"/>
 </a>
 
 <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
