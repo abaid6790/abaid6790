@@ -427,18 +427,6 @@ CNN-based application for detecting apple leaf and fruit diseases from images.
 
 </div>
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abaid6790&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🌱 Currently Learning
 
 <div align="center">
