@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm **Abaid-ur-Rehman**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Python+Developer;Generative+AI+Developer;LLM+%7C+RAG+Developer;Computer+Vision+Developer;Building+Real-World+AI+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Python+Developer;Generative+AI+Developer;Oracle+Developer;LLM+%7C+RAG+Developer;Computer+Vision+Developer;Building+Real-World+AI+Applications"/>
 
 ### 🚀 Building Intelligent Applications That Solve Real Problems
 
